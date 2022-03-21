@@ -1,0 +1,187 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://salt.tikicdn.com/cache/w444/ts/product/25/95/7f/93695f8261bf539396b38d21b23d4de2.jpg",
+      "name": "Áo hoodie nam nữ dáng tay phồng, form rộng in hình chú cừu xinh xắn",
+      "price": 95,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "https://file.hstatic.net/1000253775/file/a_f16ed98562e442698de4c429ae05d113_grande.jpg",
+      "name": "Áo Khoác Hoodie Trơn Màu Vàng Bò DQ13",
+      "price": 92,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "image": "https://cf.shopee.vn/file/b0581ef0278f9073c399e1a580ccd855",
+      "name": "Áo hoodie nam phong cách cực ngầu cho các bạn trẻ UT22 giảm chỉ còn 79,000 đ",
+      "price": 79,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "image": "https://shopuytin.vn/pictures/editor/images/2(83).jpg",
+      "name": "Áo hoodie basic, Hoodie Form Rộng trơn Tối Giản Xanh Dương",
+      "price": 236,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "https://media3.scdn.vn/img2/2018/9_19/ao-hoodie-nam-ao-hoodie-nam-3d-hot-2018-hang-nhap-1m4G3-7TehNA_simg_d0daf0_800x1200_max.jpg",
+      "name": "Áo Hoodie Nam 3D Hình 2 Con Sói Lửa - A3D12",
+      "price": 450,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "image": "https://shopuytin.vn/pictures/editor/images/6(35).jpg",
+      "name": "Áo Khoác Hoodie Handle có mũ rộng",
+      "price": 99,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "image": "https://salt.tikicdn.com/ts/tmp/48/a5/cc/942e83f86b4d0999e42e3166c1703c42.jpg",
+      "name": "Áo Hoodie Nữ - Áo Khoác Nỉ Hình Mèo Siêu Dễ Thương Blazel, 2 Màu - Hàng Chính hãng",
+      "price": 89,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "image": "https://media3.scdn.vn/img2/2018/12_2/WLLirD_simg_de2fe0_500x500_maxb.jpg",
+      "name": "Áo hoodie basic, Hoodie Form Rộng trơn Tối Giản Xanh Dương",
+      "price": 415,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "image": "https://vn-test-11.slatic.net/p/527d25f37b0c3a9922a56e48db287c69.jpg",
+      "name": "ÁO HOODIE NỮ 3D PHỐI CHỮ CỰC CHẤT HÀNG CAO CẤP TP720",
+      "price": 93,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "image": "https://media3.scdn.vn/img4/2020/09_01/AxeRudqSfZc4iO8ZejkZ.png",
+      "name": "Áo hoodie nữ phối họa tiết  mèo siêu cute",
+      "price": 69,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "image": "https://salt.tikicdn.com/ts/product/d6/c7/da/873417b3103ef10b81e610ba4ff9933a.jpg",
+      "name": "Áo hoodie nam nữ bò sữa hot",
+      "price": 105,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "image": "https://shopuytin.vn/pictures/editor/images/2(83).jpg",
+      "name": "Áo hoodie basic, Hoodie Form Rộng trơn Tối Giản Xanh Dương",
+      "price": 415,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 16,
+      "image": "https://www.thoitrangtichtac.com/productimgs/B/B7X/B76/B7653/Ao_thun_nu_tay_ngan_in_chu_see_look_at_b7653.jpg",
+      "name": "Áo thun nữ tay ngắn in chữ see look at - B7653",
+      "price": 105,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 17,
+      "image": "https://cf.shopee.vn/file/ea8e18d9dc8c68b5401775383d79795e",
+      "name": "ÁO THUN NỮ TRẮNG BO TAY",
+      "price": 150,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 18,
+      "image": "https://static.hotdeal.vn/images/1056/1056121/400x500/273338-ao-thun-nu-co-v-phoi-vien-de-thuong-273335-vn-2.jpg",
+      "name": "Áo Thun Nữ Cổ V Phối Viền Dễ Thương Màu Hồng",
+      "price": 135,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 19,
+      "image": "https://vn-live-05.slatic.net/p/a6cc846e83322bec311ce4be08772628.jpg_720x720q80.jpg_.webp",
+      "name": "Áo khoác Nỉ Hoodie Dài Tay, Áo Hoodie trơn - oversize. Chất liệu vải nỉ, Áo khoác có mũ - Áo Hoodie Unisex Form Rộng Nam, Nữ Phong Cách Cá Tính Dễ Thương",
+      "price": 89,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 20,
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/119/564/products/ao-thun-nu-han-quoc-f499.jpg",
+      "name": "Áo thun nữ Hàn Quốc 040244",
+      "price": 1050,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 21,
+      "image": "https://cf.shopee.vn/file/9deade71506b7a8971105ec3c98bf2aa",
+      "name": "Áo khoác nữ đẹp",
+      "price": 225,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    },
+    {
+      "id": 22,
+      "image": "https://thumb.danhsachcuahang.com/image/2020/01/top-shop-ban-ao-khoac-nu-gia-re-tai-quan-5-tp-hcm-thumb-1332.jpg",
+      "name": "Áo hoodie nữ phối họa tiết  mèo siêu cute",
+      "price": 69,
+      "sale_price": 100,
+      "des": "Áo khoác nữ Áo khoác nữ gió dù 2 lớp chống nắng phối viền ngộ nghĩnh-dễ thương",
+      "quantity": 0
+    }
+  ],
+  "users": [
+    {
+      "id":1,
+      "email":"admin@gmail.com",
+      "pass":"123"
+    },
+    {
+      "id":2,
+      "email":"thi@gmail.com",
+      "pass":"123"
+    }
+  ]
+}
